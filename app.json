@@ -1,7 +1,7 @@
 {
   "name": "Deploy",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Afx-Abu/Abu-MD",
+  "repository": "https://github.com/Munaxxx/Abu-MD",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
